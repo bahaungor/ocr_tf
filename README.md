@@ -12,7 +12,6 @@ This project is a handwritten text recognition model based on Convolutional Neur
 * Trained on a large dataset of handwritten text images.
 * Uses a CNN architecture for accurate and efficient recognition.
 * Can recognize both individual characters and full words.
-* Includes a GUI for easy user interaction.
 
 ## Requirements
 
