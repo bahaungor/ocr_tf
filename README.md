@@ -52,7 +52,7 @@ cd repo
 ```
 * Install the project dependencies using Conda:
 ```
-conda install --file conda-requirements.txt
+conda install --file requirements.txt
 ```
 * Start Jupyter Notebook:
 ```
@@ -83,7 +83,7 @@ python -m venv bahadir
 ```
 * Install the project dependencies using pip:
 ```
-pip install -r pip-requirements.txt
+pip install -r requirements.txt
 ```
 * Start Jupyter Notebook:
 ```
