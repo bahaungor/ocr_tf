@@ -103,7 +103,7 @@ jupyter notebook
 </details>
 
 # Usage
-This repository is in the form of an `ipynb` notebook and is not intended for use as a standalone program. The code contained in the notebook serves as a reference for how to train a Faster R-CNN model for correct wheel nut installation detection.
+This repository is in the form of an `ipynb` notebook and is not intended for use as a standalone program. The code contained in the notebook serves as a reference for how to train an OCR model.
 
 # Model Performance
 ![Image of the project](./images/project-image-2.png)
