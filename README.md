@@ -15,7 +15,7 @@ OCR model that reads text from given image.
 
 # Introduction
 This OCR model is a deep learning-based solution for recognizing handwritten text. The model uses convolutional neural networks (CNNs) to learn features from input images and a fully connected layer to classify the recognized text.
-NOT: Original dataset of the project is the property of Toyota I am not allowed to share dataset as it is the property of Toyota and sharing this confidential dataset is strictly prohibited. Therefore, you will get error after downloading this project & running it directly since dataset is missing. However, this project might give you idea for similar projects as it is used by the biggest automative company in the world.
+<!-- NOT: Original dataset of the project is the property of Toyota I am not allowed to share dataset as it is the property of Toyota and sharing this confidential dataset is strictly prohibited. Therefore, you will get error after downloading this project & running it directly since dataset is missing. However, you may use this project as a reference for your own dataset. -->
 
 # Languages and Tools
 <p align="left">
@@ -30,7 +30,7 @@ NOT: Original dataset of the project is the property of Toyota I am not allowed 
 </p>
 
 # Installation
-I will mention two methods for installation that will not affect your original environment in your PC so after you are done using my project, you can completely delete remove it from your PC like you have never installed it before.
+I will mention two methods for installation that will not affect your original environment of your PC; so after you are done using my project, you can completely remove it from your PC like you have never installed it before.
 
 <details open><summary><h2>Using Conda</h2></summary>
 
@@ -44,15 +44,15 @@ conda activate bahadir
 ```
 * Clone the repository to your local machine:
 ```
-git clone https
+git clone git@github.com:bahaungor/ocr_tf.git
 ```
 * Navigate to the cloned repository on your local machine:
 ```
-cd repo
+cd ocr_tf
 ```
 * Install the project dependencies using Conda:
 ```
-conda install --file requirements.txt
+conda install --file conda-requirements.txt
 ```
 * Start Jupyter Notebook:
 ```
@@ -81,9 +81,17 @@ python -m venv bahadir
 ```
 .\bahadir\Scripts\activate
 ```
+* Clone the repository to your local machine:
+```
+git clone git@github.com:bahaungor/ocr_tf.git
+```
+* Navigate to the cloned repository on your local machine:
+```
+cd ocr_tf
+```
 * Install the project dependencies using pip:
 ```
-pip install -r requirements.txt
+pip install -r pip-requirements.txt
 ```
 * Start Jupyter Notebook:
 ```
@@ -120,7 +128,8 @@ If you have installed the project using venv, just delete the project folder whe
 </details>
 
 # Credits
-Bahadir Ungor - Artificial Intelligence | Computer Vision | Data Science Engineer @ Toyota
+Bahadir Ungor - Artificial Intelligence | Computer Vision | Data Science Engineer @ <img src="https://www.firstindianarobotics.org/wp/media/Toyota-text-logo-3000x550-1.png" alt="image_alt_text" height="13" max-width="100%" />
+
 <p align="left">
 <a href="https://linkedin.com/in/bahaungor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bahaungor" height="30" width="40" /></a>
 <a href="https://github.com/bahaungor" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="bahaungor" height="30" width="40"/></a>
