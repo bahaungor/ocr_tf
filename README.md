@@ -128,7 +128,7 @@ If you have installed the project using venv, just delete the project folder whe
 </details>
 
 # Credits
-Bahadir Ungor - Artificial Intelligence | Computer Vision | Data Science Engineer @ <img src="https://www.firstindianarobotics.org/wp/media/Toyota-text-logo-3000x550-1.png" alt="image_alt_text" height="13" max-width="100%" />
+Bahadir Ungor - Artificial Intelligence | Computer Vision | Data Science Engineer @ <a href="#"><img src="https://www.firstindianarobotics.org/wp/media/Toyota-text-logo-3000x550-1.png" alt="image_alt_text" height="13" max-width="100%"/></a>
 
 <p align="left">
 <a href="https://linkedin.com/in/bahaungor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bahaungor" height="30" width="40" /></a>
